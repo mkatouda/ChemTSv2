@@ -1,0 +1,61 @@
+misc package
+============
+
+Submodules
+----------
+
+misc.load\_model module
+-----------------------
+
+.. automodule:: misc.load_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+misc.manage\_qsub\_parallel module
+----------------------------------
+
+.. automodule:: misc.manage_qsub_parallel
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+misc.preprocessing module
+-------------------------
+
+.. automodule:: misc.preprocessing
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+misc.qsub\_parallel\_job module
+-------------------------------
+
+.. automodule:: misc.qsub_parallel_job
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+misc.scaler module
+------------------
+
+.. automodule:: misc.scaler
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+misc.utils module
+-----------------
+
+.. automodule:: misc.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: misc
+   :members:
+   :undoc-members:
+   :show-inheritance:

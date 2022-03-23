@@ -1,0 +1,61 @@
+.. ChemTSv2 documentation master file, created by
+   sphinx-quickstart on Wed Mar  9 15:01:48 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to ChemTSv2's documentation!
+====================================
+
+.. important::
+
+   Under construction.
+
+Quickstart
+----------
+
+1. Setup environments:
+^^^^^^^^^^^^^^^^^^^^^^
+
+  .. code-block:: bash
+
+    conda create -n chemts -c conda-forge python=3.7
+    # switch a python virtual environment to `chemts`
+    pip install --upgrade tensorflow==2.5
+    pip install rdkit-pypi==2021.03.5
+    pip install matplotlib pyyaml pandas
+    # retrieve files for SAscore calculations
+    wget -P data https://raw.githubusercontent.com/rdkit/rdkit/master/Contrib/SA_Score/{fpscores.pkl.gz,sascorer.py}
+
+2. Clone ChemTSv2 repository:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. code-block:: bash
+
+    git clone git@github.com:molecule-generator-collection/ChemTSv2.git
+    cd ChemTSv2
+
+3. Run
+^^^^^^
+
+  .. code-block:: bash
+
+    python run_chemts.py -c config/setting.yaml
+
+
+ChemTSv2 package
+================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   chemts
+   modules
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

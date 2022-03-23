@@ -1,0 +1,77 @@
+reward package
+==============
+
+Submodules
+----------
+
+reward.IPE\_reward module
+-------------------------
+
+.. automodule:: reward.IPE_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.Jscore\_reward module
+----------------------------
+
+.. automodule:: reward.Jscore_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.Vina\_reward module
+--------------------------
+
+.. automodule:: reward.Vina_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.bace1\_reward module
+---------------------------
+
+.. automodule:: reward.bace1_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.dscore\_reward module
+----------------------------
+
+.. automodule:: reward.dscore_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.egfr\_reward module
+--------------------------
+
+.. automodule:: reward.egfr_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.logP\_reward module
+--------------------------
+
+.. automodule:: reward.logP_reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+reward.reward module
+--------------------
+
+.. automodule:: reward.reward
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: reward
+   :members:
+   :undoc-members:
+   :show-inheritance:

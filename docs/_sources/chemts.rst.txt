@@ -1,0 +1,7 @@
+chemts module
+=============
+
+.. automodule:: chemts
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,29 @@
+policy package
+==============
+
+Submodules
+----------
+
+policy.policy module
+--------------------
+
+.. automodule:: policy.policy
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+policy.ucb1 module
+------------------
+
+.. automodule:: policy.ucb1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: policy
+   :members:
+   :undoc-members:
+   :show-inheritance:

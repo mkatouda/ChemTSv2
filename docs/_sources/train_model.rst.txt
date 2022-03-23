@@ -1,0 +1,21 @@
+train\_model package
+====================
+
+Submodules
+----------
+
+train\_model.train\_RNN module
+------------------------------
+
+.. automodule:: train_model.train_RNN
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: train_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
